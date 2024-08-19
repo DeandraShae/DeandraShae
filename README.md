@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Deandra Carr 👋<br>🎓 M.S. in Business Analytics from Pepperdine University<br>🔍 Passionate about business data analytics and product marketing<br>📊 Skilled in Python, SQL, Tableau, and Power BI<br>🎯 Currently in the COOP Careers Data Analytics Fellowship program while exploring opportunities.<br>📧 deandra.carr@pepperdine.edu
+Hi, I'm Deandra Carr 👋<br>🎓 M.S. in Business Analytics from Pepperdine University & B.S. in Marketing from CSUN<br>🔍 Passionate about business data analytics and product marketing<br>📊 Skilled in Python, SQL, Tableau, and Power BI<br>🎯 Currently in the COOP Careers Data Analytics Fellowship program while exploring opportunities.<br>📧 deandra.carr@pepperdine.edu
 
 
 ## 🌐 Socials:
