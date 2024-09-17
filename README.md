@@ -34,10 +34,4 @@ Hi, I'm Deandra Carr 👋<br>🎓 M.S. in Business Analytics from Pepperdine Uni
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-#### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeandraShae&theme=dark&hide_border=true)<br/>  
----
-[![](https://visitcount.itsvg.in/api?id=DeandraShae&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
