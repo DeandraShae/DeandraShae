@@ -1,4 +1,4 @@
-Hi, I'm Deandra Carr 👋
+Hi, I'm Deandra👋
 
 
 ## 🌐 Socials:
